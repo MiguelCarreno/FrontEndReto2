@@ -1,9 +1,10 @@
 .container-fluid{
 
-    background: url('/img/fondo.jpg') center no-repeat;/* color de fondo negro que esta debaja de la imagen de chocolates*/
+    /*background: url('/img/fondo.jpg') center no-repeat;/* color de fondo negro que esta debaja de la imagen de chocolates*/
     background-size: cover;
     opacity: 1;
     height: 100vh;
+    background: #fefdd1;
     
 }
 
